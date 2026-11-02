@@ -1,0 +1,31 @@
+.features {
+    margin-top: 120px;
+    margin-bottom: 120px;
+
+}
+
+.features-title {
+    display: none;
+}
+
+.features-topic-list {
+    display: flex;
+    gap: 24px;
+}
+
+.features .features-topic {
+    font-weight: 500;
+    font-size: 20px;
+
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.features .features-topic-text {
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
