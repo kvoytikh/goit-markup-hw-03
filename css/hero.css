@@ -1,6 +1,9 @@
+.hero-section {
+    background: rgb(46, 47, 66);
+}
+
 .hero {
     color: white;
-    background: #2e2f42;
     padding-top: 188px;
     padding-bottom: 188px;
 }
@@ -11,6 +14,8 @@
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
+    max-width: 496px;
+    margin: 0 auto;
 }
 
 .hero .hero-bttn {

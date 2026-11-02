@@ -20,6 +20,10 @@
     display: flex;
     gap: 40px;
     margin-left: 76px;
+}
+
+.menu a {
+    display: block;
     padding: 24px 0px;
 }
 
