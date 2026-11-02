@@ -1,7 +1,10 @@
+.header-section {
+    border-bottom: 1px solid rgb(231, 233, 252);
+}
+
 .header {
     display: flex;
     align-items: center;
-    border-bottom: 1px solid rgb(231, 233, 252);
 }
 
 .header-logo {

@@ -1,11 +1,11 @@
 .hero-section {
     background: rgb(46, 47, 66);
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .hero {
     color: white;
-    padding-top: 188px;
-    padding-bottom: 188px;
 }
 
 .hero-title {

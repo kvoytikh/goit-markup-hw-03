@@ -1,7 +1,5 @@
 .team-section {
     background-color: #f4f4fd;
-}
-.team {
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -16,6 +14,10 @@
     border-radius: 0 0 4px 4px;
 }
 
+.team-card-text {
+    padding: 32px 16px
+}
+
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -25,7 +27,6 @@
 }
 
 .team-card-name {
-    margin-top: 32px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -35,7 +36,6 @@
 
 .team-card-position {
     margin-top: 8px;
-    margin-bottom: 32px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
