@@ -5,11 +5,10 @@
 }
 
 .footer-content {
-    padding-left: 15px;
     width: 264px;
-    height: 112px;
     max-width: 264px;
 }
+
 .footer-logo {
     font-weight: 700;
     font-size: 18px;

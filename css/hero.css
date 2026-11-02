@@ -1,7 +1,8 @@
 .hero {
     color: white;
     background: #2e2f42;
-    padding: 188px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .hero-title {
@@ -15,7 +16,7 @@
 .hero .hero-bttn {
     display: block;
     min-width: 169px;
-    height: 56px;
+    padding: 16px 32px;
     margin-top: 48px;
     background-color: #4d5ae5;
     color: #fff;
